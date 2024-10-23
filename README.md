@@ -6,16 +6,16 @@
   pip install -r requirements.txt
 ```
 2.  Установите одну из моделей с *google drive*:
-   - [*vosk-model-v1*](https://drive.google.com/file/d/1kM-yLf9z0mDhCyyyB1EhL0SFPEjnC0iB/view?usp=sharing) - для быстрой работы, малая модель
-   - [*vosk-model-v2*](https://drive.google.com/file/d/1ROT1320jIrBv96qUqX45e2nH20oIO_wB/view?usp=sharing) - для более качественного распознавания речи, дольше работает, хорошо распознает слэнг и различные диалекты, так же ненормативную лексику, большая модель
+   - [*vosk-model-v1*](https://drive.google.com/file/d/1l3_NTNjZMc3cup5H4v7uf12KbKjBdfdV/view?usp=drive_link) - для быстрой работы, малая модель
+   - [*vosk-model-v2*](https://drive.google.com/file/d/16NjRaozDLBxAbPYqRbbHUQmvsyow4qXM/view?usp=drive_link) - для более качественного распознавания речи, дольше работает, хорошо распознает слэнг и различные диалекты, так же ненормативную лексику, большая модель
 
 3.  [Установите Pytorch](https://pytorch.org/get-started/locally/)
 
-PyTorch Build - Stable(2.5.0)
-OS - Windows
-Package - pip
-Language - Python
-Compute Platform - CPU
+- PyTorch Build - Stable(2.5.0)
+- OS - Windows
+- Package - pip
+- Language - Python
+- Compute Platform - CPU
 
 4.  
 ```
