@@ -1,7 +1,7 @@
 # Установка 
 1.
 ```
-  git clone https://github.com/L1TV1N/AI-audio.git
+  git clone https://github.com/biocregen/phonemesRecognition.git
   cd AI-audio
   pip install -r requirements.txt
 ```
